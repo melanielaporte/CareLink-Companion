@@ -1,5 +1,9 @@
 <h1 align="center">CareLink Companion</h1>
 
+*Supporting caregivers through collaboration and self-care tools.*
+
+--
+
 ## Goal 
 To provide caregivers with the tools they need to manage care effectively while prioritizing their own well-being. 
 
