@@ -14,6 +14,7 @@ To provide caregivers with the tools they need to manage care effectively while 
 
 ## Design Tools
 - Figma: Wireframing, prototyping, and visual design.
+### UI design
 
 ## UX Reasearch
 
