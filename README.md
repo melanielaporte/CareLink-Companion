@@ -1,7 +1,7 @@
 <h1 align="center">CareLink Companion</h1>
 
 ## Goal 
-To provide caregivers with the tools they need to manage care effectively while prioritizing their own well-being.
+To provide caregivers with the tools they need to manage care effectively while prioritizing their own well-being. 
 
 ## Features
 - Shared dashboards for tracking patient glucose levels and care tasks.
